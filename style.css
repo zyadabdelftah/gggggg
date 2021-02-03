@@ -80,7 +80,7 @@
 #home{
   height: 100vh;
   min-height: 500px;
-  background: url(../images/bgb.jpg) no-repeat center;
+  background: url(bgb.jpg) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
